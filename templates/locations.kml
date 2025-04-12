@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document>
+{% for point in locations %}
+        <Placemark>
+            <name>{{ point.name }}</name>
+            <description>{{ point.desc }}</description>
+            <Point>
+                <coordinates>{{ point.lon }}, {{ point.lat }}, 0.0</coordinates>
+            </Point>
+            <ExtendedData>
+                <Data name="kind"><value>{{ point.kind }}</value></Data>
+                <Data name="primary_channel"><value>{{ point.primary_channel }}</value></Data>
+                <Data name="secondary_channel"><value>{{ point.secondary_channel }}</value></Data>
+                <Data name="med_channel"><value>{{ point.med_channel }}</value></Data>
+                <Data name="med_div"><value>{{ point.med_div }}</value></Data>
+                <Data name="mile"><value>{{ point.mile }}</value></Data>
+                <Data name="side"><value>{{ point.side }}</value></Data>
+            </ExtendedData>
+        </Placemark>
+{% endfor %}
+    </Document>
+</kml>
+
