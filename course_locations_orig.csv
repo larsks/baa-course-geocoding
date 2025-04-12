@@ -1,0 +1,76 @@
+Tac ID,Pri Chan,Sec Chan,Med Chan,Med Div,Mile,Side,Column 08,Address (ArcGIS Geocodable),Cross Street or Landmark,Approximate Bus Stop Location,Bus Side
+H02R,R1.W,CWW,3-3,A,2.1,R,,250 W. UNION ST. ASHLAND,Middle of oval driveway of Waterview Lodge Assisted Living,,
+H02L,R1.W,CWW,3-16,A,2.2,L,,221 W UNION ST ASHLAND,End of guard rail,,
+H03R,R1.W,CWW,3-16,A,3.1,R,,369 UNION ST ASHLAND,,,
+H03L,R1.W,CWW,3-16,A,3.2,L,,357 UNION ST ASHLAND,,,
+M01,R1.W,CWW,3-3,A,3.1,L,,1 WEST UNION ST ASHLAND,"Grass area, Union St & Summer St (W. Union)",175 Cherry St,L
+H04R,R1.W,CWW,3-16,A,4.1,R,,15 WAVERLY ST ASHLAND,Just before Ashland Landscape Supply on Right,,
+H04L,R1.W,CWW,3-16,A,4.2,L,,18 WAVERLY ST ASHLAND,Just past Ashland Landscape Supply on Left,,
+H05R,R1.W,CWW,3-16,A,5.2,R,,1025 WAVERLY ST FRAMINGHAM,Waverly Ln,,
+H05L,R1.W,CWW,3-16,A,5.3,L,,995 WAVERLY ST FRAMINGHAM,,,
+H06R,R1.E,CWW,3-16,A,6,R,,684 WAVERLY ST FRAMINGHAM,Isla Restaurant,,
+H06L,R1.E,CWW,3-16,A,6.1,L,,650 WAVERLY ST FRAMINGHAM,Before AL Prime Gas Station (near Fountain St),,
+M02,R1.E,CWW,3-3,A,6.15,L,,11 FOUNTAIN ST FRAMINGHAM,Columbus Club parking lot 11 Fountain St.,11 Fountain St.,L
+M03,R1.E,CWW,3-3,A,7.0,L,,228 WAVERLY ST FRAMINGHAM,In the area of 5-7 Bishop St. / across railroad tracks opposite Shell station at 228 Waverly St.,2 Bishop St,R
+H07R,R1.E,CWW,3-16,A,7.1,R,,186 WAVERLY ST FRAMINGHAM,Vacant building just before Burger King,,
+H07L,R1.E,CWW,3-16,A,7.2,L,,124 WAVERLY ST FRAMINGHAM,Across from Direct Auto Mall,,
+H08R,R1.E,CWW,3-16,A,8.0,R,,247 WEST CENTRAL ST NATICK,Natick Green sign before Newfield Drive,,
+H08L,R1.E,CWW,3-16,A,8.1,L,,233 WEST CENTRAL ST NATICK,Carlin Insurance,,
+M04,R1.E,CWW,3-3,A,8.5,L,,181 WEST CENTRAL ST NATICK,"Area of Henry Wilson Memorial Park, Natick",116 Speen St,R
+H09R,R1.E,CWW,3-16,A,8.9,R,,117 WEST CENTRAL ST NATICK,Across from Minuteman Press,,
+H09L,R1.E,CWW,3-16,A,9.0,L,,115 WEST CENTRAL ST NATICK,Delucca's,,
+H10R,R2,CWW,3-16,A,10.1,R,,36 WEST CENTRAL ST NATICK,Before Palmer Ave,,
+H10L,R2,CWW,3-16,A,10.2,L,,33 WEST CENTRAL ST NATICK,Across from Palmer Ave,,
+M05,R2,CWW,3-3,A,10.8,R,,90 EAST CENTRAL ST NATICK,Opposite Morse Tavern,4 Marion St,L
+H11R,R2,CWW,3-16,A,11.2,R,,173 EAST CENTRAL ST NATICK,Fire pull box across from 170A,,
+H11L,R2,CWW,3-16,A,11.3,L,,198 EAST CENTRAL ST NATICK,,,
+H12R,R2,CWW,3-16,A,12.1,R,,300 CENTRAL ST WELLESLEY,"Tennis Courts, ONE WAY sign",,
+H12L,R2,CWW,3-16,A,12.2,L,,165 CENTRAL ST WELLESLEY,Across from Dorothy Johnson Field House,,
+M06,R2,CWC,3-3,A,12.3,R,,106 CENTRAL ST WELLESLEY,Access Rd. to Wellesley College Field House Near Keohane Sports Center,Wellesley College Rd,R
+H13R,R2,CWC,3-16,A,13.3,R,,566 WASHINGTON ST WELLESLEY,Old School Italian Pizzeria,,
+H13L,R2,CWC,3-16,A,13.4,L,,525 WASHINGTON ST WELLESLEY,Wellesley Town Hall or Free Library,,
+M07,R2,CWC,3-3,A,13.4,R,,520 WASHINGTON ST WELLESLEY,"Route 135, East Wellesley Ave",9 Wellesley Ave,R
+H14R,R2,CWC,3-16,A,14.1,R,,427 WASHINGTON ST WELLESLEY,Wellesley Public Tennis Courts,,
+H14L,R2,CWC,3-16,A,14.2,L,,428 WASHINGTON ST WELLESLEY,Across from Rice St,,
+M08,R2,CWC,3-3,A,14.7,L,,300 WASHINGTON ST WELLESLEY,Across from Middlesex Savings Bank,447 Worcester Rd,L
+H15R,R2,CWC,3-16,A,15.0,R,,192 WASHINGTON ST WELLESLEY,Woodlawn Ave,,
+H15L,R2,CWC,3-16,A,15.1,L,,169 WASHINGTON ST WELLESLEY,"DiBona's Dental Office, Croton St",,
+M09,R2,CWC,3-3,A,15.3,R,,111 WASHINGTON ST WELLESLEY,Warren Park,354 Walnut St,R
+H16R,R2,CWC,3-16,A,16.0,R,,2330 WASHINGTON ST NEWTON,"Brand Equity Co, Starbucks",,
+H16L,R2,CWC,3-16,A,16.1,L,,2276 WASHINGTON ST NEWTON,,,
+M10,R3,CWC,2-5,B,16.6,R,,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R
+P16R,R3,CWC,2-16,B,16.8,R,,1940 WASHINGTON ST NEWTON,Woodlawn T stop,,
+P16L,R3,CWC,2-16,B,16.8,L,,1941 WASHINGTON ST NEWTON,Across from Woodlawn T stop,,
+H17R,R3,CWC,2-16,B,17.1,R,,1860 WASHINGTON ST NEWTON,After Temple Reyim,,
+H17L,R3,CWC,2-16,B,17.2,L,,1800 WASHINGTON ST NEWTON,Aspen Ave,,
+M11,R3,CWC,2-5,B,17.5,L,,1750 COMMONWEALTH AVE NEWTON,Across from Newton Fire Station,1672 Washington St,L
+H18R,R3,CWC,2-16,B,18.1,R,,1496 COMMONWEALTH AVE NEWTON,,,
+H18L,R3,CWC,2-16,B,18.2,L,,1465 COMMONWEALTH AVE NEWTON,,,
+M12,R3,CWC,2-5,B,18.3,L,,1375 COMMONWEALTH AVE NEWTON,Chestnut St. & Comm. Ave. West of intersection,350 Chestnut St,L
+M13,R3,CWC,2-5,B,19.0,R,,1086 COMMONWEALTH AVE NEWTON,"Newton City Hall, Homer St",424 Homer St,R
+H19R,R3,CWC,2-16,B,19.1,R,,1000 COMMONWEALTH AVE NEWTON,"Newton City Hall entrance, after park",,
+H19L,R3,CWC,2-16,B,19.2,L,,1001 COMMONWEALTH AVE NEWTON,Across from 2nd Newton City Hall entrance,,
+M14,R3,CWC,2-5,B,19.9,L,,641 COMMONWEALTH AVE NEWTON,By benches at Center St,1045 Center St,L
+H20R,R3,CWC,2-16,B,20.1,R,,530 COMMONWEALTH AVE NEWTON,Before Sumner St,,
+H20L,R3,CWC,2-16,B,20.2,L,,543 COMMONWEALTH AVE NEWTON,,,
+M15,R3,CWC,2-5,B,20.5,L,,435 COMMONWEALTH AVE NEWTON,End of Prentice Rd on grass,75 Prentice Rd,L
+M16,R4,CWC,2-4,C,20.8,L,,323 COMMONWEALTH AVE NEWTON,Hammond St,74 Hammond St,L
+M17,R4,CWC,2-4,C,21.1,R,,160 COMMONWEALTH AVE NEWTON,College Rd and Old Colony Rd,128 College Road,R
+H21R,R4,CWC,2-16,C,21.1,R,,140 COMMONWEALTH AVE NEWTON,"Past College Rd, in front of Boston College",,
+H21L,R4,CWC,2-16,C,21.2,L,,140 COMMONWEALTH AVE NEWTON,"Across from Boston College, Voule Hall",,
+M18,R4,CWE,2-4,C,21.7,R,,2200 COMMONWEALTH AVE BOSTON,Boyden Park across from MBTA Sta.,Evergreen Cemetery,R
+M19,R4,CWE,2-4,C,22.0,R,,1936 COMMONWEALTH AVE BOSTON,Chestnut Hill Dr. Across from Reservoir Tower Apts.,Chestnut Hill Driveway NE,R
+H22R,R4,CWE,2-16,C,22.0,R,,1936 COMMONWEALTH AVE BOSTON,Before Chestnut Hill driveway near reservoir NOTE : Right side ONLY,,
+M20,R4,CWE,2-4,C,22.4,R,,2001 BEACON ST BOSTON,Cleveland Circle at Chestnut Hill,398 Chestnut Hill Ave,R
+M21,R5,CWE,2-3,D,22.8,R,,1765 BEACON ST BROOKLINE,Church at Dean Rd,12 Dean Rd,R
+H23R,R5,CWE,2-16,D,23.1,R,,1609 BEACON ST BROOKLINE,Tai Chi lot opposite Washington Sq. MBTA,,
+H23L,R5,CWE,2-16,D,23.2,L,,1547 BEACON ST BROOKLINE,Before Fairbanks St,,
+M22,R5,CWE,2-3,D,23.2,L,,1619 BEACON ST BROOKLINE,At Washington by T stop w/benches,720 Washington St,L
+M23,R5,CWE,2-3,D,23.9,R,,1319 BEACON ST BROOKLINE,"Bank of America at Harvard St, SE corner",258 Harvard St,R
+H24R1,R5,CWE,2-16,D,24.1,R,,1223 BEACON ST BROOKLINE,,,
+H24R2,R5,CWE,2-16,D,24.2,R,,1195 BEACON ST BROOKLINE,Marshall St,,
+M24,R5,CWE,2-3,D,24.3,R,,1163 BEACON ST BROOKLINE,Temple at Kent St,366 Kent St,R
+M25,R5,CWE,2-3,D,24.8,R,,899 BEACON ST BOSTON,Audubon Circle at Park Dr brick island,468 Park Dr,R
+H25R,R5,CWE,2-16,D,25.1,R,,712 BEACON ST BOSTON,On Mass Turnpike bridge,,
+H25L,R5,CWE,2-16,D,25.2,L,,645 BEACON STREET BOSTON,First traffic light in Kenmore Sq,,
+M26,R5,CWE,2-3,D,25.5,L,,430 COMMONWEALTH AVE BOSTON,Under the overpass at Charlesgate West,583 Beacon St,R
