@@ -45,21 +45,23 @@ def main():
         open(args.dstfile, "w") if args.dstfile else sys.stdout as outfd,
     ):
         reader = csv.DictReader(infd)
-        writer = csv.DictWriter(outfd, list(field_map.values()) + geocode_fields)
+        writer = csv.DictWriter(outfd, [*models.CoursePoint.model_fields])
         writer.writeheader()
         for row in reader:
-            newrow = {field_map[k]: v for k, v in row.items() if k in field_map}
-            print(newrow['tacid'])
+            newrow = models.CoursePoint.model_validate(row)
+            print(f"location: {newrow.name}")
+
             try:
-                res = gmaps.geocode(newrow["address"])
+                res = gmaps.geocode(newrow.address)
                 loc = models.GeocodeResponseList.model_validate(res)[0]
             except Exception as err:
                 breakpoint()
                 pass
-            newrow['desc'] = loc.formatted_address
-            newrow['lat'] = loc.geometry.location.lat
-            newrow['lon'] = loc.geometry.location.lng
-            writer.writerow(newrow)
+            newrow.desc = loc.formatted_address
+            newrow.lat = loc.geometry.location.lat
+            newrow.lon = loc.geometry.location.lng
+
+            writer.writerow(newrow.model_dump())
             time.sleep(0.1)
 
 
