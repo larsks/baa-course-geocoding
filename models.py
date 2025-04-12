@@ -46,18 +46,26 @@ class LocationKind(StrEnum):
         }[v[0]]
 
 
+class Side(StrEnum):
+    RIGHT = "R"
+    LEFT = "L"
+    UNKNOWN = ""
+
+
 class CoursePoint(BaseModel):
+    model_config = pydantic.ConfigDict(populate_by_name=True)
+
     name: str = pydantic.Field(validation_alias="Tac ID")
     primary_channel: str = pydantic.Field(validation_alias="Pri Chan")
     secondary_channel: str = pydantic.Field(validation_alias="Sec Chan")
     med_channel: str = pydantic.Field(validation_alias="Med Chan")
     med_div: str = pydantic.Field(validation_alias="Med Div")
     mile: str = pydantic.Field(validation_alias="Mile")
-    side: str = pydantic.Field(validation_alias="Side")
+    side: Side = pydantic.Field(validation_alias="Side")
     address: str = pydantic.Field(validation_alias="Address (ArcGIS Geocodable)")
     cross_street: str = pydantic.Field(validation_alias="Cross Street or Landmark")
     bus_stop: str = pydantic.Field(validation_alias="Approximate Bus Stop Location")
-    bus_side: str = pydantic.Field(validation_alias="Bus Side")
+    bus_side: Side = pydantic.Field(validation_alias="Bus Side")
     kind: LocationKind | None = None
     desc: str | None = None
     lat: float | None = None
