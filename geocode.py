@@ -8,17 +8,9 @@ import time
 import googlemaps
 
 import models
+from readers import CoursePointReader
 
 LOG = logging.getLogger(__name__)
-
-
-class CoursePointReader(csv.DictReader):
-    def __next__(self) -> models.CoursePoint:
-        if self.line_num == 0:
-            self.fieldnames
-
-        row = super().__next__()
-        return models.CoursePoint.model_validate(row)
 
 
 def parse_args():
@@ -44,7 +36,7 @@ def main():
         open(args.dstfile, "w") if args.dstfile else sys.stdout as outfd,
     ):
         reader = CoursePointReader(infd)
-        writer = csv.DictWriter(outfd, [*models.GeocodedCoursePoint.model_fields])
+        writer = csv.DictWriter(outfd, [*models.GeocodedCoursePoint.model_fields] + [*models.GeocodedCoursePoint.model_computed_fields])
         writer.writeheader()
         for row in reader:
             LOG.debug(f"processing {row.name} ({row.address})")

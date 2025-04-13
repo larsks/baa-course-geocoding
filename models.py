@@ -74,19 +74,17 @@ class CoursePoint(BaseModel):
     bus_stop: str = pydantic.Field(validation_alias="Approximate Bus Stop Location")
     bus_side: Side = pydantic.Field(validation_alias="Bus Side")
 
+    @pydantic.computed_field
+    @property
+    def kind(self) -> LocationKind:
+        return LocationKind.from_tacid(self.name)
+
 
 class GeocodedCoursePoint(CoursePoint):
-    kind: LocationKind | None = None
     formatted_address: str
     lat: float
     lon: float
 
-    @pydantic.model_validator(mode="after")
-    def validate_kind(self) -> Self:
-        if self.kind is None:
-            self.kind = LocationKind.from_tacid(self.name)
-
-        return self
 
 class Correction(BaseModel):
     name: str
