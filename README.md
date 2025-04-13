@@ -28,6 +28,10 @@ To geocode the course locations, run:
 uv run geocode.py course_locations_orig.csv -o course_locations_geocoded.csv
 ```
 
+### A note about accuracy
+
+The course locations are identified by address in the source document, but those addresses don't always correspond to the actual location of the station. Particular outliers include **M06**. The address for **M06** is "106 Central St, Wellesley, MA", but the geocoded location of this address is 700 feet back from the route and about 0.5 miles away from the actual station location. While this is the most extreme difference, many of the other markers on this map also differ from the actual station location.
+
 ## Producing GPX and KML
 
 To produce the GPX and KML versions of the data, run:
