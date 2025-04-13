@@ -1,5 +1,5 @@
 name,primary_channel,secondary_channel,med_channel,med_div,mile,side,address,desc,bus_stop,bus_side,kind,formatted_address,lat,lon
-H02R,R1.W,CWW,3-3,A,2.1,R,250 W. UNION ST. ASHLAND,Middle of oval driveway of Waterview Lodge Assisted Living,,,Hydration,"250 W Union St, Ashland, MA 01721, USA",42.2421176,-71.481065
+H02R,R1.W,CWW,3-3,A,2.1,R,250 W. UNION ST. ASHLAND,Middle of oval driveway of Waterview Lodge Assisted Living,,,Hydration,"250 W Union St, Ashland, MA 01721, USA",42.24318,-71.48176
 H02L,R1.W,CWW,3-16,A,2.2,L,221 W UNION ST ASHLAND,End of guard rail,,,Hydration,"221 W Union St, Ashland, MA 01721, USA",42.244108,-71.4806139
 H03R,R1.W,CWW,3-16,A,3.1,R,369 UNION ST ASHLAND,,,,Hydration,"369 Union St, Ashland, MA 01721, USA",42.2558858,-71.4653478
 H03L,R1.W,CWW,3-16,A,3.2,L,357 UNION ST ASHLAND,,,,Hydration,"357 Union St, Ashland, MA 01721, USA",42.2560699,-71.4643743
@@ -26,7 +26,7 @@ H11R,R2,CWW,3-16,A,11.2,R,173 EAST CENTRAL ST NATICK,Fire pull box across from 1
 H11L,R2,CWW,3-16,A,11.3,L,198 EAST CENTRAL ST NATICK,,,,Hydration,"198 E Central St, Natick, MA 01760, USA",42.2902647,-71.3288
 H12R,R2,CWW,3-16,A,12.1,R,300 CENTRAL ST WELLESLEY,"Tennis Courts, ONE WAY sign",,,Hydration,"300 Central St, Wellesley, MA 02482, USA",42.2953192,-71.3141842
 H12L,R2,CWW,3-16,A,12.2,L,165 CENTRAL ST WELLESLEY,Across from Dorothy Johnson Field House,,,Hydration,"165 Central St, Wellesley, MA 02481, USA",42.2957899,-71.3136354
-M06,R2,CWC,3-3,A,12.3,R,106 CENTRAL ST WELLESLEY,Access Rd. to Wellesley College Field House Near Keohane Sports Center,Wellesley College Rd,R,Medical,"106 Central St, Wellesley, MA 02481, USA",42.2936103,-71.30202539999999
+M06,R2,CWC,3-3,A,12.3,R,106 CENTRAL ST WELLESLEY,Access Rd. to Wellesley College Field House Near Keohane Sports Center,Wellesley College Rd,R,Medical,"106 Central St, Wellesley, MA 02481, USA",42.29578,-71.31282
 H13R,R2,CWC,3-16,A,13.3,R,566 WASHINGTON ST WELLESLEY,Old School Italian Pizzeria,,,Hydration,"566 Washington St, Wellesley, MA 02482, USA",42.296445,-71.29262659999999
 H13L,R2,CWC,3-16,A,13.4,L,525 WASHINGTON ST WELLESLEY,Wellesley Town Hall or Free Library,,,Hydration,"Morton Park, 525 Washington St, Wellesley, MA 02482, USA",42.2979567,-71.29158369999999
 M07,R2,CWC,3-3,A,13.4,R,520 WASHINGTON ST WELLESLEY,"Route 135, East Wellesley Ave",9 Wellesley Ave,R,Medical,"520 Washington St, Wellesley, MA 02482, USA",42.2974799,-71.29033919999999
@@ -38,7 +38,7 @@ H15L,R2,CWC,3-16,A,15.1,L,169 WASHINGTON ST WELLESLEY,"DiBona's Dental Office, C
 M09,R2,CWC,3-3,A,15.3,R,111 WASHINGTON ST WELLESLEY,Warren Park,354 Walnut St,R,Medical,"111 Washington St, Wellesley, MA 02481, USA",42.3196837,-71.2644715
 H16R,R2,CWC,3-16,A,16.0,R,2330 WASHINGTON ST NEWTON,"Brand Equity Co, Starbucks",,,Hydration,"2330 Washington St, Newton, MA 02462, USA",42.3253352,-71.256681
 H16L,R2,CWC,3-16,A,16.1,L,2276 WASHINGTON ST NEWTON,,,,Hydration,"2276 Washington St, Newton, MA 02462, USA",42.3260222,-71.2548695
-M10,R3,CWC,2-5,B,16.6,R,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R,Medical,"2014 Washington St, Newton, MA 02462, USA",42.2955772,-71.26457719999999
+M10,R3,CWC,2-5,B,16.6,R,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R,Medical,"2014 Washington St, Newton, MA 02462, USA",42.33091,-71.24726
 P16R,R3,CWC,2-16,B,16.8,R,1940 WASHINGTON ST NEWTON,Woodlawn T stop,,,Transit,"1940 Washington St, Auburndale, MA 02466, USA",42.3333235,-71.2431924
 P16L,R3,CWC,2-16,B,16.8,L,1941 WASHINGTON ST NEWTON,Across from Woodlawn T stop,,,Transit,"1941 Washington St, Auburndale, MA 02466, USA",42.3329736,-71.24582199999999
 H17R,R3,CWC,2-16,B,17.1,R,1860 WASHINGTON ST NEWTON,After Temple Reyim,,,Hydration,"1860 Washington St, Auburndale, MA 02466, USA",42.3357615,-71.2409246

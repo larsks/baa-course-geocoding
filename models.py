@@ -87,3 +87,8 @@ class GeocodedCoursePoint(CoursePoint):
             self.kind = LocationKind.from_tacid(self.name)
 
         return self
+
+class Correction(BaseModel):
+    name: str
+    lat: float
+    lon: float
