@@ -1,4 +1,4 @@
-name,primary_channel,secondary_channel,med_channel,med_div,mile,side,address,cross_street,bus_stop,bus_side,kind,desc,lat,lon
+name,primary_channel,secondary_channel,med_channel,med_div,mile,side,address,desc,bus_stop,bus_side,kind,formatted_address,lat,lon
 H02R,R1.W,CWW,3-3,A,2.1,R,250 W. UNION ST. ASHLAND,Middle of oval driveway of Waterview Lodge Assisted Living,,,Hydration,"250 W Union St, Ashland, MA 01721, USA",42.2421176,-71.481065
 H02L,R1.W,CWW,3-16,A,2.2,L,221 W UNION ST ASHLAND,End of guard rail,,,Hydration,"221 W Union St, Ashland, MA 01721, USA",42.244108,-71.4806139
 H03R,R1.W,CWW,3-16,A,3.1,R,369 UNION ST ASHLAND,,,,Hydration,"369 Union St, Ashland, MA 01721, USA",42.2558858,-71.4653478
@@ -8,7 +8,7 @@ H04R,R1.W,CWW,3-16,A,4.1,R,15 WAVERLY ST ASHLAND,Just before Ashland Landscape S
 H04L,R1.W,CWW,3-16,A,4.2,L,18 WAVERLY ST ASHLAND,Just past Ashland Landscape Supply on Left,,,Hydration,"18 Waverly St, Ashland, MA 01721, USA",42.2628805,-71.4495255
 H05R,R1.W,CWW,3-16,A,5.2,R,1025 WAVERLY ST FRAMINGHAM,Waverly Ln,,,Hydration,"1025 Waverly St, Framingham, MA 01702, USA",42.2727482,-71.4412304
 H05L,R1.W,CWW,3-16,A,5.3,L,995 WAVERLY ST FRAMINGHAM,,,,Hydration,"995 Waverly St, Framingham, MA 01702, USA",42.2735548,-71.4395327
-H06R,R1.E,CWW,3-16,A,6,R,684 WAVERLY ST FRAMINGHAM,Isla Restaurant,,,Hydration,"684 Waverly St, Framingham, MA 01702, USA",42.273138,-71.4266827
+H06R,R1.E,CWW,3-16,A,6.0,R,684 WAVERLY ST FRAMINGHAM,Isla Restaurant,,,Hydration,"684 Waverly St, Framingham, MA 01702, USA",42.273138,-71.4266827
 H06L,R1.E,CWW,3-16,A,6.1,L,650 WAVERLY ST FRAMINGHAM,Before AL Prime Gas Station (near Fountain St),,,Hydration,"650 Waverly St, Framingham, MA 01702, USA",42.2736168,-71.42580319999999
 M02,R1.E,CWW,3-3,A,6.15,L,11 FOUNTAIN ST FRAMINGHAM,Columbus Club parking lot 11 Fountain St.,11 Fountain St.,L,Medical,"11 Fountain St, Framingham, MA 01702, USA",42.2746219,-71.4254175
 M03,R1.E,CWW,3-3,A,7.0,L,228 WAVERLY ST FRAMINGHAM,In the area of 5-7 Bishop St. / across railroad tracks opposite Shell station at 228 Waverly St.,2 Bishop St,R,Medical,"228 Waverly St, Framingham, MA 01702, USA",42.2782184,-71.409077
@@ -38,7 +38,7 @@ H15L,R2,CWC,3-16,A,15.1,L,169 WASHINGTON ST WELLESLEY,"DiBona's Dental Office, C
 M09,R2,CWC,3-3,A,15.3,R,111 WASHINGTON ST WELLESLEY,Warren Park,354 Walnut St,R,Medical,"111 Washington St, Wellesley, MA 02481, USA",42.3196837,-71.2644715
 H16R,R2,CWC,3-16,A,16.0,R,2330 WASHINGTON ST NEWTON,"Brand Equity Co, Starbucks",,,Hydration,"2330 Washington St, Newton, MA 02462, USA",42.3253352,-71.256681
 H16L,R2,CWC,3-16,A,16.1,L,2276 WASHINGTON ST NEWTON,,,,Hydration,"2276 Washington St, Newton, MA 02462, USA",42.3260222,-71.2548695
-M10,R3,CWC,2-5,B,16.6,R,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R,Medical,"2014 Washington St, Newton, MA 02462, USA",42.3303575,-71.2471192
+M10,R3,CWC,2-5,B,16.6,R,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R,Medical,"2014 Washington St, Newton, MA 02462, USA",42.2955772,-71.26457719999999
 P16R,R3,CWC,2-16,B,16.8,R,1940 WASHINGTON ST NEWTON,Woodlawn T stop,,,Transit,"1940 Washington St, Auburndale, MA 02466, USA",42.3333235,-71.2431924
 P16L,R3,CWC,2-16,B,16.8,L,1941 WASHINGTON ST NEWTON,Across from Woodlawn T stop,,,Transit,"1941 Washington St, Auburndale, MA 02466, USA",42.3329736,-71.24582199999999
 H17R,R3,CWC,2-16,B,17.1,R,1860 WASHINGTON ST NEWTON,After Temple Reyim,,,Hydration,"1860 Washington St, Auburndale, MA 02466, USA",42.3357615,-71.2409246

@@ -4,11 +4,12 @@
 {% for point in locations %}
         <Placemark>
             <name>{{ point.name }}</name>
-            <description>{{ point.desc }}</description>
+            <description>{{ point.desc | replace("&", "&amp;") }}</description>
             <Point>
                 <coordinates>{{ point.lon }}, {{ point.lat }}, 0.0</coordinates>
             </Point>
             <ExtendedData>
+                <Data name="formatted_address"><value>{{ point.formatted_address  | replace("&", "&amp;") }}</value></Data>
                 <Data name="kind"><value>{{ point.kind }}</value></Data>
                 <Data name="primary_channel"><value>{{ point.primary_channel }}</value></Data>
                 <Data name="secondary_channel"><value>{{ point.secondary_channel }}</value></Data>

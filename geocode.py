@@ -58,7 +58,7 @@ def main():
 
             newrow = models.GeocodedCoursePoint(
                 **row.model_dump(),
-                desc=loc.formatted_address,
+                formatted_address=loc.formatted_address,
                 lat=loc.geometry.location.lat,
                 lon=loc.geometry.location.lng,
             )

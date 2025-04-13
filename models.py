@@ -70,16 +70,16 @@ class CoursePoint(BaseModel):
     mile: float = pydantic.Field(validation_alias="Mile")
     side: Side = pydantic.Field(validation_alias="Side")
     address: str = pydantic.Field(validation_alias="Address (ArcGIS Geocodable)")
-    cross_street: str = pydantic.Field(validation_alias="Cross Street or Landmark")
+    desc: str = pydantic.Field(validation_alias="Cross Street or Landmark")
     bus_stop: str = pydantic.Field(validation_alias="Approximate Bus Stop Location")
     bus_side: Side = pydantic.Field(validation_alias="Bus Side")
 
 
 class GeocodedCoursePoint(CoursePoint):
     kind: LocationKind | None = None
-    desc: str | None = None
-    lat: float | None = None
-    lon: float | None = None
+    formatted_address: str
+    lat: float
+    lon: float
 
     @pydantic.model_validator(mode="after")
     def validate_kind(self) -> Self:
