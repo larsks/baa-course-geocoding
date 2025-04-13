@@ -35,3 +35,7 @@ To produce the GPX and KML versions of the data, run:
 ```
 make
 ```
+
+## The map
+
+[![Screenshot showing a portion of the map of marathon course locations](map.png)][map]
