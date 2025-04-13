@@ -51,11 +51,13 @@ class Side(StrEnum):
     LEFT = "L"
     UNKNOWN = ""
 
+
 class MedDiv(StrEnum):
     A = "A"
     B = "B"
     C = "C"
     D = "D"
+
 
 class CoursePoint(BaseModel):
     model_config = pydantic.ConfigDict(populate_by_name=True)
@@ -71,6 +73,9 @@ class CoursePoint(BaseModel):
     cross_street: str = pydantic.Field(validation_alias="Cross Street or Landmark")
     bus_stop: str = pydantic.Field(validation_alias="Approximate Bus Stop Location")
     bus_side: Side = pydantic.Field(validation_alias="Bus Side")
+
+
+class GeocodedCoursePoint(CoursePoint):
     kind: LocationKind | None = None
     desc: str | None = None
     lat: float | None = None

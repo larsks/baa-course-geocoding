@@ -25,7 +25,7 @@ def main():
         open(args.dstfile, "w") if args.dstfile else sys.stdout as outfd,
     ):
         reader = csv.DictReader(infd)
-        locations = [models.CoursePoint(**row) for row in reader]
+        locations = [models.GeocodedCoursePoint(**row) for row in reader]
 
         tmpl = env.get_template("locations.kml")
         outfd.write(tmpl.render(locations=locations))
