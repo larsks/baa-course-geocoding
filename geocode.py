@@ -1,5 +1,4 @@
 import argparse
-import csv
 import logging
 import os
 import sys
@@ -8,7 +7,8 @@ import time
 import googlemaps
 
 import models
-from readers import CoursePointReader
+from csvutils import CoursePointReader
+from csvutils import GeocodedCoursePointWriter
 
 LOG = logging.getLogger(__name__)
 
@@ -36,7 +36,7 @@ def main():
         open(args.dstfile, "w") if args.dstfile else sys.stdout as outfd,
     ):
         reader = CoursePointReader(infd)
-        writer = csv.DictWriter(outfd, [*models.GeocodedCoursePoint.model_fields] + [*models.GeocodedCoursePoint.model_computed_fields])
+        writer = GeocodedCoursePointWriter(outfd)
         writer.writeheader()
         for row in reader:
             LOG.debug(f"processing {row.name} ({row.address})")
@@ -55,7 +55,7 @@ def main():
                 lon=loc.geometry.location.lng,
             )
 
-            writer.writerow(newrow.model_dump())
+            writer.writerow(newrow)
             time.sleep(0.1)
 
 

@@ -4,7 +4,7 @@ import logging
 import sys
 
 import models
-from readers import GeocodedCoursePointReader, CorrectionsReader
+from csvutils import GeocodedCoursePointReader, CorrectionsReader
 
 LOG = logging.getLogger(__name__)
 

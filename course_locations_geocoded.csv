@@ -1,76 +1,76 @@
-name,primary_channel,secondary_channel,med_channel,med_div,mile,side,address,desc,bus_stop,bus_side,kind,formatted_address,lat,lon
-H02R,R1.W,CWW,3-3,A,2.1,R,250 W. UNION ST. ASHLAND,Middle of oval driveway of Waterview Lodge Assisted Living,,,Hydration,"250 W Union St, Ashland, MA 01721, USA",42.24318,-71.48176
-H02L,R1.W,CWW,3-16,A,2.2,L,221 W UNION ST ASHLAND,End of guard rail,,,Hydration,"221 W Union St, Ashland, MA 01721, USA",42.244108,-71.4806139
-H03R,R1.W,CWW,3-16,A,3.1,R,369 UNION ST ASHLAND,,,,Hydration,"369 Union St, Ashland, MA 01721, USA",42.2558858,-71.4653478
-H03L,R1.W,CWW,3-16,A,3.2,L,357 UNION ST ASHLAND,,,,Hydration,"357 Union St, Ashland, MA 01721, USA",42.2560699,-71.4643743
-M01,R1.W,CWW,3-3,A,3.1,L,1 WEST UNION ST ASHLAND,"Grass area, Union St & Summer St (W. Union)",175 Cherry St,L,Medical,"Parking lot, 1 W Union St, Ashland, MA 01721, USA",42.2555442,-71.4677026
-H04R,R1.W,CWW,3-16,A,4.1,R,15 WAVERLY ST ASHLAND,Just before Ashland Landscape Supply on Right,,,Hydration,"15 Waverly St, Ashland, MA 01721, USA",42.2625192,-71.4490371
-H04L,R1.W,CWW,3-16,A,4.2,L,18 WAVERLY ST ASHLAND,Just past Ashland Landscape Supply on Left,,,Hydration,"18 Waverly St, Ashland, MA 01721, USA",42.2628805,-71.4495255
-H05R,R1.W,CWW,3-16,A,5.2,R,1025 WAVERLY ST FRAMINGHAM,Waverly Ln,,,Hydration,"1025 Waverly St, Framingham, MA 01702, USA",42.2727482,-71.4412304
-H05L,R1.W,CWW,3-16,A,5.3,L,995 WAVERLY ST FRAMINGHAM,,,,Hydration,"995 Waverly St, Framingham, MA 01702, USA",42.2735548,-71.4395327
-H06R,R1.E,CWW,3-16,A,6.0,R,684 WAVERLY ST FRAMINGHAM,Isla Restaurant,,,Hydration,"684 Waverly St, Framingham, MA 01702, USA",42.273138,-71.4266827
-H06L,R1.E,CWW,3-16,A,6.1,L,650 WAVERLY ST FRAMINGHAM,Before AL Prime Gas Station (near Fountain St),,,Hydration,"650 Waverly St, Framingham, MA 01702, USA",42.2736168,-71.42580319999999
-M02,R1.E,CWW,3-3,A,6.15,L,11 FOUNTAIN ST FRAMINGHAM,Columbus Club parking lot 11 Fountain St.,11 Fountain St.,L,Medical,"11 Fountain St, Framingham, MA 01702, USA",42.2746219,-71.4254175
-M03,R1.E,CWW,3-3,A,7.0,L,228 WAVERLY ST FRAMINGHAM,In the area of 5-7 Bishop St. / across railroad tracks opposite Shell station at 228 Waverly St.,2 Bishop St,R,Medical,"228 Waverly St, Framingham, MA 01702, USA",42.2782184,-71.409077
-H07R,R1.E,CWW,3-16,A,7.1,R,186 WAVERLY ST FRAMINGHAM,Vacant building just before Burger King,,,Hydration,"186 Waverly St, Framingham, MA 01702, USA",42.2783,-71.40788069999999
-H07L,R1.E,CWW,3-16,A,7.2,L,124 WAVERLY ST FRAMINGHAM,Across from Direct Auto Mall,,,Hydration,"124 Waverly St, Framingham, MA 01702, USA",42.279068,-71.40496
-H08R,R1.E,CWW,3-16,A,8.0,R,247 WEST CENTRAL ST NATICK,Natick Green sign before Newfield Drive,,,Hydration,"247 W Central St, Natick, MA 01760, USA",42.2821581,-71.3904087
-H08L,R1.E,CWW,3-16,A,8.1,L,233 WEST CENTRAL ST NATICK,Carlin Insurance,,,Hydration,"Parking lot, 233 W Central St, Natick, MA 01760, USA",42.2825605,-71.3869821
-M04,R1.E,CWW,3-3,A,8.5,L,181 WEST CENTRAL ST NATICK,"Area of Henry Wilson Memorial Park, Natick",116 Speen St,R,Medical,"181 W Central St, Natick, MA 01760, USA",42.28270089999999,-71.3808949
-H09R,R1.E,CWW,3-16,A,8.9,R,117 WEST CENTRAL ST NATICK,Across from Minuteman Press,,,Hydration,"117 W Central St, Natick, MA 01760, USA",42.2835933,-71.3716286
-H09L,R1.E,CWW,3-16,A,9.0,L,115 WEST CENTRAL ST NATICK,Delucca's,,,Hydration,"115 W Central St, Natick, MA 01760, USA",42.28369550000001,-71.3709193
-H10R,R2,CWW,3-16,A,10.1,R,36 WEST CENTRAL ST NATICK,Before Palmer Ave,,,Hydration,"36 W Central St, Natick, MA 01760, USA",42.2830688,-71.3512164
-H10L,R2,CWW,3-16,A,10.2,L,33 WEST CENTRAL ST NATICK,Across from Palmer Ave,,,Hydration,"33 W Central St, Natick, MA 01760, USA",42.2836481,-71.3502767
-M05,R2,CWW,3-3,A,10.8,R,90 EAST CENTRAL ST NATICK,Opposite Morse Tavern,4 Marion St,L,Medical,"90 E Central St, Natick, MA 01760, USA",42.285476,-71.3397619
-H11R,R2,CWW,3-16,A,11.2,R,173 EAST CENTRAL ST NATICK,Fire pull box across from 170A,,,Hydration,"173 E Central St, Natick, MA 01760, USA",42.2889135,-71.3303473
-H11L,R2,CWW,3-16,A,11.3,L,198 EAST CENTRAL ST NATICK,,,,Hydration,"198 E Central St, Natick, MA 01760, USA",42.2902647,-71.3288
-H12R,R2,CWW,3-16,A,12.1,R,300 CENTRAL ST WELLESLEY,"Tennis Courts, ONE WAY sign",,,Hydration,"300 Central St, Wellesley, MA 02482, USA",42.2953192,-71.3141842
-H12L,R2,CWW,3-16,A,12.2,L,165 CENTRAL ST WELLESLEY,Across from Dorothy Johnson Field House,,,Hydration,"165 Central St, Wellesley, MA 02481, USA",42.2957899,-71.3136354
-M06,R2,CWC,3-3,A,12.3,R,106 CENTRAL ST WELLESLEY,Access Rd. to Wellesley College Field House Near Keohane Sports Center,Wellesley College Rd,R,Medical,"106 Central St, Wellesley, MA 02481, USA",42.29578,-71.31282
-H13R,R2,CWC,3-16,A,13.3,R,566 WASHINGTON ST WELLESLEY,Old School Italian Pizzeria,,,Hydration,"566 Washington St, Wellesley, MA 02482, USA",42.296445,-71.29262659999999
-H13L,R2,CWC,3-16,A,13.4,L,525 WASHINGTON ST WELLESLEY,Wellesley Town Hall or Free Library,,,Hydration,"Morton Park, 525 Washington St, Wellesley, MA 02482, USA",42.2979567,-71.29158369999999
-M07,R2,CWC,3-3,A,13.4,R,520 WASHINGTON ST WELLESLEY,"Route 135, East Wellesley Ave",9 Wellesley Ave,R,Medical,"520 Washington St, Wellesley, MA 02482, USA",42.2974799,-71.29033919999999
-H14R,R2,CWC,3-16,A,14.1,R,427 WASHINGTON ST WELLESLEY,Wellesley Public Tennis Courts,,,Hydration,"427 Washington St, Wellesley, MA 02482, USA",42.3052923,-71.282831
-H14L,R2,CWC,3-16,A,14.2,L,428 WASHINGTON ST WELLESLEY,Across from Rice St,,,Hydration,"428 Washington St, Wellesley, MA 02481, USA",42.3065896,-71.2806663
-M08,R2,CWC,3-3,A,14.7,L,300 WASHINGTON ST WELLESLEY,Across from Middlesex Savings Bank,447 Worcester Rd,L,Medical,"300 Washington St, Wellesley, MA 02481, USA",42.3121172,-71.27439369999999
-H15R,R2,CWC,3-16,A,15.0,R,192 WASHINGTON ST WELLESLEY,Woodlawn Ave,,,Hydration,"192 Washington St, Wellesley, MA 02481, USA",42.31581329999999,-71.2692546
-H15L,R2,CWC,3-16,A,15.1,L,169 WASHINGTON ST WELLESLEY,"DiBona's Dental Office, Croton St",,,Hydration,"169 Washington St, Wellesley, MA 02481, USA",42.3171751,-71.2684578
-M09,R2,CWC,3-3,A,15.3,R,111 WASHINGTON ST WELLESLEY,Warren Park,354 Walnut St,R,Medical,"111 Washington St, Wellesley, MA 02481, USA",42.3196837,-71.2644715
-H16R,R2,CWC,3-16,A,16.0,R,2330 WASHINGTON ST NEWTON,"Brand Equity Co, Starbucks",,,Hydration,"2330 Washington St, Newton, MA 02462, USA",42.3253352,-71.256681
-H16L,R2,CWC,3-16,A,16.1,L,2276 WASHINGTON ST NEWTON,,,,Hydration,"2276 Washington St, Newton, MA 02462, USA",42.3260222,-71.2548695
-M10,R3,CWC,2-5,B,16.6,R,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R,Medical,"2014 Washington St, Newton, MA 02462, USA",42.33091,-71.24726
-P16R,R3,CWC,2-16,B,16.8,R,1940 WASHINGTON ST NEWTON,Woodlawn T stop,,,Transit,"1940 Washington St, Auburndale, MA 02466, USA",42.3333235,-71.2431924
-P16L,R3,CWC,2-16,B,16.8,L,1941 WASHINGTON ST NEWTON,Across from Woodlawn T stop,,,Transit,"1941 Washington St, Auburndale, MA 02466, USA",42.3329736,-71.24582199999999
-H17R,R3,CWC,2-16,B,17.1,R,1860 WASHINGTON ST NEWTON,After Temple Reyim,,,Hydration,"1860 Washington St, Auburndale, MA 02466, USA",42.3357615,-71.2409246
-H17L,R3,CWC,2-16,B,17.2,L,1800 WASHINGTON ST NEWTON,Aspen Ave,,,Hydration,"1800 Washington St, Auburndale, MA 02466, USA",42.3377478,-71.2409192
-M11,R3,CWC,2-5,B,17.5,L,1750 COMMONWEALTH AVE NEWTON,Across from Newton Fire Station,1672 Washington St,L,Medical,"1750 Commonwealth Ave, Auburndale, MA 02466, USA",42.3406103,-71.23856409999999
-H18R,R3,CWC,2-16,B,18.1,R,1496 COMMONWEALTH AVE NEWTON,,,,Hydration,"1496 Commonwealth Ave, West Newton, MA 02465, USA",42.3385259,-71.22788779999999
-H18L,R3,CWC,2-16,B,18.2,L,1465 COMMONWEALTH AVE NEWTON,,,,Hydration,"1465 Commonwealth Ave, Newton, MA 02465, USA",42.3385741,-71.22618659999999
-M12,R3,CWC,2-5,B,18.3,L,1375 COMMONWEALTH AVE NEWTON,Chestnut St. & Comm. Ave. West of intersection,350 Chestnut St,L,Medical,"1375 Commonwealth Ave, Newton, MA 02465, USA",42.3368787,-71.2233731
-M13,R3,CWC,2-5,B,19.0,R,1086 COMMONWEALTH AVE NEWTON,"Newton City Hall, Homer St",424 Homer St,R,Medical,"1086 Commonwealth Ave, Newton Centre, MA 02459, USA",42.3378749,-71.2113908
-H19R,R3,CWC,2-16,B,19.1,R,1000 COMMONWEALTH AVE NEWTON,"Newton City Hall entrance, after park",,,Hydration,"1000 Commonwealth Ave, Newton, MA 02459, USA",42.3373819,-71.2086872
-H19L,R3,CWC,2-16,B,19.2,L,1001 COMMONWEALTH AVE NEWTON,Across from 2nd Newton City Hall entrance,,,Hydration,"1001 Commonwealth Ave, Newton, MA 02459, USA",42.33801769999999,-71.2088493
-M14,R3,CWC,2-5,B,19.9,L,641 COMMONWEALTH AVE NEWTON,By benches at Center St,1045 Center St,L,Medical,"641 Commonwealth Ave, Newton, MA 02459, USA",42.3367206,-71.1936719
-H20R,R3,CWC,2-16,B,20.1,R,530 COMMONWEALTH AVE NEWTON,Before Sumner St,,,Hydration,"530 Commonwealth Ave, Newton Centre, MA 02459, USA",42.336068,-71.1881338
-H20L,R3,CWC,2-16,B,20.2,L,543 COMMONWEALTH AVE NEWTON,,,,Hydration,"543 Commonwealth Ave, Newton Centre, MA 02459, USA",42.336505,-71.1889577
-M15,R3,CWC,2-5,B,20.5,L,435 COMMONWEALTH AVE NEWTON,End of Prentice Rd on grass,75 Prentice Rd,L,Medical,"435 Commonwealth Ave, Newton, MA 02459, USA",42.336797,-71.1837201
-M16,R4,CWC,2-4,C,20.8,L,323 COMMONWEALTH AVE NEWTON,Hammond St,74 Hammond St,L,Medical,"323 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3363011,-71.1789443
-M17,R4,CWC,2-4,C,21.1,R,160 COMMONWEALTH AVE NEWTON,College Rd and Old Colony Rd,128 College Road,R,Medical,"160 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3371752,-71.1722331
-H21R,R4,CWC,2-16,C,21.1,R,140 COMMONWEALTH AVE NEWTON,"Past College Rd, in front of Boston College",,,Hydration,"O'Neill Library, 140 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3361277,-71.16926
-H21L,R4,CWC,2-16,C,21.2,L,140 COMMONWEALTH AVE NEWTON,"Across from Boston College, Voule Hall",,,Hydration,"O'Neill Library, 140 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3361277,-71.16926
-M18,R4,CWE,2-4,C,21.7,R,2200 COMMONWEALTH AVE BOSTON,Boyden Park across from MBTA Sta.,Evergreen Cemetery,R,Medical,"2200 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3398764,-71.1664449
-M19,R4,CWE,2-4,C,22.0,R,1936 COMMONWEALTH AVE BOSTON,Chestnut Hill Dr. Across from Reservoir Tower Apts.,Chestnut Hill Driveway NE,R,Medical,"1936 Commonwealth Ave, Boston, MA 02135, USA",42.3384094,-71.1555642
-H22R,R4,CWE,2-16,C,22.0,R,1936 COMMONWEALTH AVE BOSTON,Before Chestnut Hill driveway near reservoir NOTE : Right side ONLY,,,Hydration,"1936 Commonwealth Ave, Boston, MA 02135, USA",42.3384094,-71.1555642
-M20,R4,CWE,2-4,C,22.4,R,2001 BEACON ST BOSTON,Cleveland Circle at Chestnut Hill,398 Chestnut Hill Ave,R,Medical,"2001 Beacon St, Brighton, MA 02135, USA",42.3357193,-71.1498755
-M21,R5,CWE,2-3,D,22.8,R,1765 BEACON ST BROOKLINE,Church at Dean Rd,12 Dean Rd,R,Medical,"1765 Beacon St, Brookline, MA 02445, USA",42.337398,-71.1421439
-H23R,R5,CWE,2-16,D,23.1,R,1609 BEACON ST BROOKLINE,Tai Chi lot opposite Washington Sq. MBTA,,,Hydration,"1609 Beacon St, Brookline, MA 02446, USA",42.33913099999999,-71.1345267
-H23L,R5,CWE,2-16,D,23.2,L,1547 BEACON ST BROOKLINE,Before Fairbanks St,,,Hydration,"1547 Beacon St, Brookline, MA 02446, USA",42.33911459999999,-71.13162919999999
-M22,R5,CWE,2-3,D,23.2,L,1619 BEACON ST BROOKLINE,At Washington by T stop w/benches,720 Washington St,L,Medical,"1619 Beacon St, Brookline, MA 02446, USA",42.3392031,-71.1347545
-M23,R5,CWE,2-3,D,23.9,R,1319 BEACON ST BROOKLINE,"Bank of America at Harvard St, SE corner",258 Harvard St,R,Medical,"1319 Beacon St, Brookline, MA 02446, USA",42.3418514,-71.120913
-H24R1,R5,CWE,2-16,D,24.1,R,1223 BEACON ST BROOKLINE,,,,Hydration,"1223 Beacon St, Brookline, MA 02446, USA",42.34302659999999,-71.1167705
-H24R2,R5,CWE,2-16,D,24.2,R,1195 BEACON ST BROOKLINE,Marshall St,,,Hydration,"1195 Beacon St, Brookline, MA 02446, USA",42.3434159,-71.1153152
-M24,R5,CWE,2-3,D,24.3,R,1163 BEACON ST BROOKLINE,Temple at Kent St,366 Kent St,R,Medical,"1163 Beacon St, Brookline, MA 02446, USA",42.3438247,-71.1139826
-M25,R5,CWE,2-3,D,24.8,R,899 BEACON ST BOSTON,Audubon Circle at Park Dr brick island,468 Park Dr,R,Medical,"899 Beacon St, Boston, MA 02215, USA",42.3462258,-71.1052149
-H25R,R5,CWE,2-16,D,25.1,R,712 BEACON ST BOSTON,On Mass Turnpike bridge,,,Hydration,"712 Beacon St, Boston, MA 02215, USA",42.3483244,-71.09985809999999
-H25L,R5,CWE,2-16,D,25.2,L,645 BEACON STREET BOSTON,First traffic light in Kenmore Sq,,,Hydration,"645 Beacon St, Boston, MA 02215, USA",42.3484278,-71.09776769999999
-M26,R5,CWE,2-3,D,25.5,L,430 COMMONWEALTH AVE BOSTON,Under the overpass at Charlesgate West,583 Beacon St,R,Medical,"430 Commonwealth Ave, Boston, MA 02215, USA",42.3486372,-71.091394
+name,primary_channel,secondary_channel,med_channel,med_div,mile,side,address,desc,bus_stop,bus_side,formatted_address,lat,lon,kind
+H02R,R1.W,CWW,3-3,A,2.1,R,250 W. UNION ST. ASHLAND,Middle of oval driveway of Waterview Lodge Assisted Living,,,"250 W Union St, Ashland, MA 01721, USA",42.2421176,-71.481065,Hydration
+H02L,R1.W,CWW,3-16,A,2.2,L,221 W UNION ST ASHLAND,End of guard rail,,,"221 W Union St, Ashland, MA 01721, USA",42.244108,-71.4806139,Hydration
+H03R,R1.W,CWW,3-16,A,3.1,R,369 UNION ST ASHLAND,,,,"369 Union St, Ashland, MA 01721, USA",42.2558858,-71.4653478,Hydration
+H03L,R1.W,CWW,3-16,A,3.2,L,357 UNION ST ASHLAND,,,,"357 Union St, Ashland, MA 01721, USA",42.2560699,-71.4643743,Hydration
+M01,R1.W,CWW,3-3,A,3.1,L,1 WEST UNION ST ASHLAND,"Grass area, Union St & Summer St (W. Union)",175 Cherry St,L,"Parking lot, 1 W Union St, Ashland, MA 01721, USA",42.2555442,-71.4677026,Medical
+H04R,R1.W,CWW,3-16,A,4.1,R,15 WAVERLY ST ASHLAND,Just before Ashland Landscape Supply on Right,,,"15 Waverly St, Ashland, MA 01721, USA",42.2625192,-71.4490371,Hydration
+H04L,R1.W,CWW,3-16,A,4.2,L,18 WAVERLY ST ASHLAND,Just past Ashland Landscape Supply on Left,,,"18 Waverly St, Ashland, MA 01721, USA",42.2628805,-71.4495255,Hydration
+H05R,R1.W,CWW,3-16,A,5.2,R,1025 WAVERLY ST FRAMINGHAM,Waverly Ln,,,"1025 Waverly St, Framingham, MA 01702, USA",42.2727482,-71.4412304,Hydration
+H05L,R1.W,CWW,3-16,A,5.3,L,995 WAVERLY ST FRAMINGHAM,,,,"995 Waverly St, Framingham, MA 01702, USA",42.2735548,-71.4395327,Hydration
+H06R,R1.E,CWW,3-16,A,6.0,R,684 WAVERLY ST FRAMINGHAM,Isla Restaurant,,,"684 Waverly St, Framingham, MA 01702, USA",42.273138,-71.4266827,Hydration
+H06L,R1.E,CWW,3-16,A,6.1,L,650 WAVERLY ST FRAMINGHAM,Before AL Prime Gas Station (near Fountain St),,,"650 Waverly St, Framingham, MA 01702, USA",42.2736168,-71.42580319999999,Hydration
+M02,R1.E,CWW,3-3,A,6.15,L,11 FOUNTAIN ST FRAMINGHAM,Columbus Club parking lot 11 Fountain St.,11 Fountain St.,L,"11 Fountain St, Framingham, MA 01702, USA",42.2746219,-71.4254175,Medical
+M03,R1.E,CWW,3-3,A,7.0,L,228 WAVERLY ST FRAMINGHAM,In the area of 5-7 Bishop St. / across railroad tracks opposite Shell station at 228 Waverly St.,2 Bishop St,R,"228 Waverly St, Framingham, MA 01702, USA",42.2782184,-71.409077,Medical
+H07R,R1.E,CWW,3-16,A,7.1,R,186 WAVERLY ST FRAMINGHAM,Vacant building just before Burger King,,,"186 Waverly St, Framingham, MA 01702, USA",42.2783,-71.40788069999999,Hydration
+H07L,R1.E,CWW,3-16,A,7.2,L,124 WAVERLY ST FRAMINGHAM,Across from Direct Auto Mall,,,"124 Waverly St, Framingham, MA 01702, USA",42.279068,-71.40496,Hydration
+H08R,R1.E,CWW,3-16,A,8.0,R,247 WEST CENTRAL ST NATICK,Natick Green sign before Newfield Drive,,,"247 W Central St, Natick, MA 01760, USA",42.2821581,-71.3904087,Hydration
+H08L,R1.E,CWW,3-16,A,8.1,L,233 WEST CENTRAL ST NATICK,Carlin Insurance,,,"Parking lot, 233 W Central St, Natick, MA 01760, USA",42.2825605,-71.3869821,Hydration
+M04,R1.E,CWW,3-3,A,8.5,L,181 WEST CENTRAL ST NATICK,"Area of Henry Wilson Memorial Park, Natick",116 Speen St,R,"181 W Central St, Natick, MA 01760, USA",42.28270089999999,-71.3808949,Medical
+H09R,R1.E,CWW,3-16,A,8.9,R,117 WEST CENTRAL ST NATICK,Across from Minuteman Press,,,"117 W Central St, Natick, MA 01760, USA",42.2835933,-71.3716286,Hydration
+H09L,R1.E,CWW,3-16,A,9.0,L,115 WEST CENTRAL ST NATICK,Delucca's,,,"115 W Central St, Natick, MA 01760, USA",42.28369550000001,-71.3709193,Hydration
+H10R,R2,CWW,3-16,A,10.1,R,36 WEST CENTRAL ST NATICK,Before Palmer Ave,,,"36 W Central St, Natick, MA 01760, USA",42.2830688,-71.3512164,Hydration
+H10L,R2,CWW,3-16,A,10.2,L,33 WEST CENTRAL ST NATICK,Across from Palmer Ave,,,"33 W Central St, Natick, MA 01760, USA",42.2836481,-71.3502767,Hydration
+M05,R2,CWW,3-3,A,10.8,R,90 EAST CENTRAL ST NATICK,Opposite Morse Tavern,4 Marion St,L,"90 E Central St, Natick, MA 01760, USA",42.285476,-71.3397619,Medical
+H11R,R2,CWW,3-16,A,11.2,R,173 EAST CENTRAL ST NATICK,Fire pull box across from 170A,,,"173 E Central St, Natick, MA 01760, USA",42.2889135,-71.3303473,Hydration
+H11L,R2,CWW,3-16,A,11.3,L,198 EAST CENTRAL ST NATICK,,,,"198 E Central St, Natick, MA 01760, USA",42.2902647,-71.3288,Hydration
+H12R,R2,CWW,3-16,A,12.1,R,300 CENTRAL ST WELLESLEY,"Tennis Courts, ONE WAY sign",,,"300 Central St, Wellesley, MA 02482, USA",42.2953192,-71.3141842,Hydration
+H12L,R2,CWW,3-16,A,12.2,L,165 CENTRAL ST WELLESLEY,Across from Dorothy Johnson Field House,,,"165 Central St, Wellesley, MA 02481, USA",42.2957899,-71.3136354,Hydration
+M06,R2,CWC,3-3,A,12.3,R,106 CENTRAL ST WELLESLEY,Access Rd. to Wellesley College Field House Near Keohane Sports Center,Wellesley College Rd,R,"106 Central St, Wellesley, MA 02481, USA",42.2936103,-71.30202539999999,Medical
+H13R,R2,CWC,3-16,A,13.3,R,566 WASHINGTON ST WELLESLEY,Old School Italian Pizzeria,,,"566 Washington St, Wellesley, MA 02482, USA",42.296445,-71.29262659999999,Hydration
+H13L,R2,CWC,3-16,A,13.4,L,525 WASHINGTON ST WELLESLEY,Wellesley Town Hall or Free Library,,,"Morton Park, 525 Washington St, Wellesley, MA 02482, USA",42.2979567,-71.29158369999999,Hydration
+M07,R2,CWC,3-3,A,13.4,R,520 WASHINGTON ST WELLESLEY,"Route 135, East Wellesley Ave",9 Wellesley Ave,R,"520 Washington St, Wellesley, MA 02482, USA",42.2974799,-71.29033919999999,Medical
+H14R,R2,CWC,3-16,A,14.1,R,427 WASHINGTON ST WELLESLEY,Wellesley Public Tennis Courts,,,"427 Washington St, Wellesley, MA 02482, USA",42.3052923,-71.282831,Hydration
+H14L,R2,CWC,3-16,A,14.2,L,428 WASHINGTON ST WELLESLEY,Across from Rice St,,,"428 Washington St, Wellesley, MA 02481, USA",42.3065896,-71.2806663,Hydration
+M08,R2,CWC,3-3,A,14.7,L,300 WASHINGTON ST WELLESLEY,Across from Middlesex Savings Bank,447 Worcester Rd,L,"300 Washington St, Wellesley, MA 02481, USA",42.3121172,-71.27439369999999,Medical
+H15R,R2,CWC,3-16,A,15.0,R,192 WASHINGTON ST WELLESLEY,Woodlawn Ave,,,"192 Washington St, Wellesley, MA 02481, USA",42.31581329999999,-71.2692546,Hydration
+H15L,R2,CWC,3-16,A,15.1,L,169 WASHINGTON ST WELLESLEY,"DiBona's Dental Office, Croton St",,,"169 Washington St, Wellesley, MA 02481, USA",42.3171751,-71.2684578,Hydration
+M09,R2,CWC,3-3,A,15.3,R,111 WASHINGTON ST WELLESLEY,Warren Park,354 Walnut St,R,"111 Washington St, Wellesley, MA 02481, USA",42.3196837,-71.2644715,Medical
+H16R,R2,CWC,3-16,A,16.0,R,2330 WASHINGTON ST NEWTON,"Brand Equity Co, Starbucks",,,"2330 Washington St, Newton, MA 02462, USA",42.3253352,-71.256681,Hydration
+H16L,R2,CWC,3-16,A,16.1,L,2276 WASHINGTON ST NEWTON,,,,"2276 Washington St, Newton, MA 02462, USA",42.3260222,-71.2548695,Hydration
+M10,R3,CWC,2-5,B,16.6,R,2014 WASHINGTON ST NEWTON,Newton Wellesley Hospital parking lot,2044 Beacon St,R,"2014 Washington St, Newton, MA 02462, USA",42.2955772,-71.26457719999999,Medical
+P16R,R3,CWC,2-16,B,16.8,R,1940 WASHINGTON ST NEWTON,Woodlawn T stop,,,"1940 Washington St, Auburndale, MA 02466, USA",42.3333235,-71.2431924,Transit
+P16L,R3,CWC,2-16,B,16.8,L,1941 WASHINGTON ST NEWTON,Across from Woodlawn T stop,,,"1941 Washington St, Auburndale, MA 02466, USA",42.3329736,-71.24582199999999,Transit
+H17R,R3,CWC,2-16,B,17.1,R,1860 WASHINGTON ST NEWTON,After Temple Reyim,,,"1860 Washington St, Auburndale, MA 02466, USA",42.3357615,-71.2409246,Hydration
+H17L,R3,CWC,2-16,B,17.2,L,1800 WASHINGTON ST NEWTON,Aspen Ave,,,"1800 Washington St, Auburndale, MA 02466, USA",42.3377478,-71.2409192,Hydration
+M11,R3,CWC,2-5,B,17.5,L,1750 COMMONWEALTH AVE NEWTON,Across from Newton Fire Station,1672 Washington St,L,"1750 Commonwealth Ave, Auburndale, MA 02466, USA",42.3406103,-71.23856409999999,Medical
+H18R,R3,CWC,2-16,B,18.1,R,1496 COMMONWEALTH AVE NEWTON,,,,"1496 Commonwealth Ave, West Newton, MA 02465, USA",42.3385259,-71.22788779999999,Hydration
+H18L,R3,CWC,2-16,B,18.2,L,1465 COMMONWEALTH AVE NEWTON,,,,"1465 Commonwealth Ave, Newton, MA 02465, USA",42.3385741,-71.22618659999999,Hydration
+M12,R3,CWC,2-5,B,18.3,L,1375 COMMONWEALTH AVE NEWTON,Chestnut St. & Comm. Ave. West of intersection,350 Chestnut St,L,"1375 Commonwealth Ave, Newton, MA 02465, USA",42.3368787,-71.2233731,Medical
+M13,R3,CWC,2-5,B,19.0,R,1086 COMMONWEALTH AVE NEWTON,"Newton City Hall, Homer St",424 Homer St,R,"1086 Commonwealth Ave, Newton Centre, MA 02459, USA",42.3378749,-71.2113908,Medical
+H19R,R3,CWC,2-16,B,19.1,R,1000 COMMONWEALTH AVE NEWTON,"Newton City Hall entrance, after park",,,"1000 Commonwealth Ave, Newton, MA 02459, USA",42.3373819,-71.2086872,Hydration
+H19L,R3,CWC,2-16,B,19.2,L,1001 COMMONWEALTH AVE NEWTON,Across from 2nd Newton City Hall entrance,,,"1001 Commonwealth Ave, Newton, MA 02459, USA",42.33801769999999,-71.2088493,Hydration
+M14,R3,CWC,2-5,B,19.9,L,641 COMMONWEALTH AVE NEWTON,By benches at Center St,1045 Center St,L,"641 Commonwealth Ave, Newton, MA 02459, USA",42.3367206,-71.1936719,Medical
+H20R,R3,CWC,2-16,B,20.1,R,530 COMMONWEALTH AVE NEWTON,Before Sumner St,,,"530 Commonwealth Ave, Newton Centre, MA 02459, USA",42.336068,-71.1881338,Hydration
+H20L,R3,CWC,2-16,B,20.2,L,543 COMMONWEALTH AVE NEWTON,,,,"543 Commonwealth Ave, Newton Centre, MA 02459, USA",42.336505,-71.1889577,Hydration
+M15,R3,CWC,2-5,B,20.5,L,435 COMMONWEALTH AVE NEWTON,End of Prentice Rd on grass,75 Prentice Rd,L,"435 Commonwealth Ave, Newton, MA 02459, USA",42.336797,-71.1837201,Medical
+M16,R4,CWC,2-4,C,20.8,L,323 COMMONWEALTH AVE NEWTON,Hammond St,74 Hammond St,L,"323 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3363011,-71.1789443,Medical
+M17,R4,CWC,2-4,C,21.1,R,160 COMMONWEALTH AVE NEWTON,College Rd and Old Colony Rd,128 College Road,R,"160 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3371752,-71.1722331,Medical
+H21R,R4,CWC,2-16,C,21.1,R,140 COMMONWEALTH AVE NEWTON,"Past College Rd, in front of Boston College",,,"O'Neill Library, 140 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3361277,-71.16926,Hydration
+H21L,R4,CWC,2-16,C,21.2,L,140 COMMONWEALTH AVE NEWTON,"Across from Boston College, Voule Hall",,,"O'Neill Library, 140 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3361277,-71.16926,Hydration
+M18,R4,CWE,2-4,C,21.7,R,2200 COMMONWEALTH AVE BOSTON,Boyden Park across from MBTA Sta.,Evergreen Cemetery,R,"2200 Commonwealth Ave, Chestnut Hill, MA 02467, USA",42.3398764,-71.1664449,Medical
+M19,R4,CWE,2-4,C,22.0,R,1936 COMMONWEALTH AVE BOSTON,Chestnut Hill Dr. Across from Reservoir Tower Apts.,Chestnut Hill Driveway NE,R,"1936 Commonwealth Ave, Boston, MA 02135, USA",42.3384094,-71.1555642,Medical
+H22R,R4,CWE,2-16,C,22.0,R,1936 COMMONWEALTH AVE BOSTON,Before Chestnut Hill driveway near reservoir NOTE : Right side ONLY,,,"1936 Commonwealth Ave, Boston, MA 02135, USA",42.3384094,-71.1555642,Hydration
+M20,R4,CWE,2-4,C,22.4,R,2001 BEACON ST BOSTON,Cleveland Circle at Chestnut Hill,398 Chestnut Hill Ave,R,"2001 Beacon St, Brighton, MA 02135, USA",42.3357193,-71.1498755,Medical
+M21,R5,CWE,2-3,D,22.8,R,1765 BEACON ST BROOKLINE,Church at Dean Rd,12 Dean Rd,R,"1765 Beacon St, Brookline, MA 02445, USA",42.337398,-71.1421439,Medical
+H23R,R5,CWE,2-16,D,23.1,R,1609 BEACON ST BROOKLINE,Tai Chi lot opposite Washington Sq. MBTA,,,"1609 Beacon St, Brookline, MA 02446, USA",42.33913099999999,-71.1345267,Hydration
+H23L,R5,CWE,2-16,D,23.2,L,1547 BEACON ST BROOKLINE,Before Fairbanks St,,,"1547 Beacon St, Brookline, MA 02446, USA",42.33911459999999,-71.13162919999999,Hydration
+M22,R5,CWE,2-3,D,23.2,L,1619 BEACON ST BROOKLINE,At Washington by T stop w/benches,720 Washington St,L,"1619 Beacon St, Brookline, MA 02446, USA",42.3392031,-71.1347545,Medical
+M23,R5,CWE,2-3,D,23.9,R,1319 BEACON ST BROOKLINE,"Bank of America at Harvard St, SE corner",258 Harvard St,R,"1319 Beacon St, Brookline, MA 02446, USA",42.3418514,-71.120913,Medical
+H24R1,R5,CWE,2-16,D,24.1,R,1223 BEACON ST BROOKLINE,,,,"1223 Beacon St, Brookline, MA 02446, USA",42.34302659999999,-71.1167705,Hydration
+H24R2,R5,CWE,2-16,D,24.2,R,1195 BEACON ST BROOKLINE,Marshall St,,,"1195 Beacon St, Brookline, MA 02446, USA",42.3434159,-71.1153152,Hydration
+M24,R5,CWE,2-3,D,24.3,R,1163 BEACON ST BROOKLINE,Temple at Kent St,366 Kent St,R,"1163 Beacon St, Brookline, MA 02446, USA",42.3438247,-71.1139826,Medical
+M25,R5,CWE,2-3,D,24.8,R,899 BEACON ST BOSTON,Audubon Circle at Park Dr brick island,468 Park Dr,R,"899 Beacon St, Boston, MA 02215, USA",42.3462258,-71.1052149,Medical
+H25R,R5,CWE,2-16,D,25.1,R,712 BEACON ST BOSTON,On Mass Turnpike bridge,,,"712 Beacon St, Boston, MA 02215, USA",42.3483244,-71.09985809999999,Hydration
+H25L,R5,CWE,2-16,D,25.2,L,645 BEACON STREET BOSTON,First traffic light in Kenmore Sq,,,"645 Beacon St, Boston, MA 02215, USA",42.3484278,-71.09776769999999,Hydration
+M26,R5,CWE,2-3,D,25.5,L,430 COMMONWEALTH AVE BOSTON,Under the overpass at Charlesgate West,583 Beacon St,R,"430 Commonwealth Ave, Boston, MA 02215, USA",42.3486372,-71.091394,Medical
